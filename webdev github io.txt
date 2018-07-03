@@ -1,0 +1,5 @@
+-page.html
+
+-> Get basic html stuff
+-> inside of body, get the component of that page
+-> link it directly to that page from other pages
